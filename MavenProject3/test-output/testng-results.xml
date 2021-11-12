@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="41" started-at="2021-11-12T12:05:09 IST" finished-at="2021-11-12T12:05:09 IST">
+  <suite name="Default suite" duration-ms="37" started-at="2021-11-12T17:08:57 IST" finished-at="2021-11-12T17:08:57 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="41" started-at="2021-11-12T12:05:09 IST" finished-at="2021-11-12T12:05:09 IST">
-      <class name="com.TyssClient.TestScripts.Program2">
-        <test-method status="PASS" signature="program()[pri:0, instance:com.TyssClient.TestScripts.Program2@1efed156]" name="program" duration-ms="8" started-at="2021-11-12T12:05:09 IST" finished-at="2021-11-12T12:05:09 IST">
+    <test name="Default test" duration-ms="37" started-at="2021-11-12T17:08:57 IST" finished-at="2021-11-12T17:08:57 IST">
+      <class name="com.TyssClient.TestScripts.xyz">
+        <test-method status="PASS" signature="smomething()[pri:0, instance:com.TyssClient.TestScripts.xyz@1efed156]" name="smomething" duration-ms="7" started-at="2021-11-12T17:08:57 IST" finished-at="2021-11-12T17:08:57 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- program -->
-      </class> <!-- com.TyssClient.TestScripts.Program2 -->
+        </test-method> <!-- smomething -->
+      </class> <!-- com.TyssClient.TestScripts.xyz -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
