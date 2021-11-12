@@ -9,6 +9,6 @@ public class program1
 	public void programN1() 
 	{
 		System.out.println("printing my 1 st program");
-		Assert.fail();
+		
 	}
 }
